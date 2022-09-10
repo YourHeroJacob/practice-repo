@@ -1,27 +1,27 @@
-## First Name Last Name
+## Jacob Bell
 
-### Term Year 
+### 2022 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Computation and Programming
 
-- Course 2
+- Pre-Calc Algebra/Trigonometry
 
-- Course 3
+- Intro to Data Science
 
-- Course 4
+- Python for Data Analytics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Cooking
 
-- Thing 2
+- Music
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Video Games
+- 
+- **
 
-***
-
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/09/09
